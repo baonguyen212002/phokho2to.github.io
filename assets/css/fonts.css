@@ -1,0 +1,4 @@
+ @font-face{font-family:'Mulish Bold';src:url('../fonts/Mulish-Bold.woff2') format('woff2'),url('../fonts/Mulish-Bold.woff') format('woff');font-weight:bold;font-style:normal;font-display:swap;}
+@font-face{font-family:'Mulish Regular';src:url('../fonts/Mulish-Regular.woff2') format('woff2'),url('../fonts/Mulish-Regular.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+@font-face{font-family:'UTM Kabel KT';src:url('../fonts/UTMKabelKT.woff2') format('woff2'),url('../fonts/UTMKabelKT.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+@font-face{font-family:'Great Vibes';src:url('../font/Great_Vibes/GreatVibes-Regular.woff2') format('woff2'),url('../font/Great_Vibes/GreatVibes-Regular.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
